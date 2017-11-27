@@ -9,6 +9,7 @@
 3.用npm registry查看名字是否已经被使用
 ```
 <hr/>
+
 > ### version
 ```java
 - 必填

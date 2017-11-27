@@ -1,9 +1,9 @@
 # package.json
 > ### name
 - 必填
-- 包的名字
-1.不要把node、js放在名字中
-2.可能为作为参数被传入require()，所以应该比较短
+- 包的名字<br/>
+1.不要把node、js放在名字中<br/>
+2.可能为作为参数被传入require()，所以应该比较短<br/>
 3.用npm registry查看名字是否已经被使用
 
 > ### version
@@ -13,3 +13,11 @@
 > ### description
 - 非必填
 - 描述信息
+
+> keywords
+- 非必填
+- 关键词
+
+> homepage
+- 非必填
+- 项目官网的url
